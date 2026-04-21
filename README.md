@@ -6,8 +6,8 @@ a space to collect info from the random topics group
 
 ## 📚 Knowledge Base
 
-### 💃 [Dancing](/dancing)
-#### [Whacking](/dancing/whacking) 
+### <summary>[Dancing](/dancing)</summary>
+#### <summary>[Whacking](/dancing/whacking) </summary>
 ##### [posing/punking inspo](/whacking/pose_inspiration.md)
 #### [Dancer Health ❤️](/dancing/health)
 ---
