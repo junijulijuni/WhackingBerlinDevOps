@@ -26,16 +26,15 @@ def generate_toc(path, indent=0, root_path=None):
         if os.path.isdir(item_path):
             if item.startswith('.'):
                 continue
-            # Get relative path from root for the link
+            # Display: just folder name, Link: folder path
             rel_path = os.path.relpath(item_path, root_path)
             toc.append("  " * indent + f"- [{item}]({rel_path})")
             toc.extend(generate_toc(item_path, indent + 1, root_path))
             
         elif item.endswith('.md') and item != 'README.md':
-            # Get relative path including directory
+            # Display: just filename without .md, Link: full relative path
             rel_path = os.path.relpath(item_path, root_path)
-            # Remove .md extension for display name, keep full path for link
-            display_name = rel_path[:-3]  # removes .md
+            display_name = item[:-3]  # removes .md
             toc.append("  " * indent + f"- [{display_name}]({rel_path})")
     
     return toc
