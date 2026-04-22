@@ -8,8 +8,8 @@
     - [earplug_recommendations](dancing/health/earplug_recommendations.md)
   - [whacking](dancing/whacking)
     - [history](dancing/whacking/history)
+      - [0history_texts](dancing/whacking/history/0history_texts.md)
       - [dance&club-culture-documentaries&footage](dancing/whacking/history/dance&club-culture-documentaries&footage.md)
-      - [history_texts](dancing/whacking/history/history_texts.md)
     - [music](dancing/whacking/music.md)
     - [pose_inspiration](dancing/whacking/pose_inspiration.md)
 
