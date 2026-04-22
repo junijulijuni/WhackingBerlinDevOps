@@ -4,7 +4,7 @@
 
 ---
 
-[Kinethic California by Naomi Bragin](/dancing/whacking/history/sources/BRAGIN-KinethicCalifornia-2024.pdf) 
+[Kinethic California by Naomi Bragin](/dancing/whacking/history/BRAGIN-KinethicCalifornia-2024.pdf) 
 
 
 
