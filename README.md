@@ -15,6 +15,6 @@ a space to collect info from the random topics group
 
 ## 📝 How the hell does this work??
 - [Contribution Guidelines](CONTRIBUTING.md)
-- [How to Add a New Topic](how-to-add.md)
+- [How to Add a New Topic](how-to-add.md) (add file)
 
 ---
