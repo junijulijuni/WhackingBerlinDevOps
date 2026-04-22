@@ -1,5 +1,13 @@
 # Whacking Infodump
 
+<!-- PROTECTED_SECTION_START -->
+# This is your protected content
+It can be **anything** you want to preserve:
+- Custom notes
+- Important links
+- Contributor guidelines
+<!-- PROTECTED_SECTION_END -->
+
 ## Table of Contents
 
 - [CONTRIBUTING](CONTRIBUTING.md)
